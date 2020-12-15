@@ -1,4 +1,4 @@
-module github.com/blerfont/copy
+module bitbucket.org/barbaraiot/bbrcopy
 
 go 1.14
 
